@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MangaKo",
-    "slug": "MangaKo",
+    "slug": "githubbuild",
     "scheme": "MangaKo",
     "version": "1.1.0",
     "orientation": "portrait",
@@ -33,7 +33,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "e7119cef-eb3c-4885-ae2d-8dbdbf9f5d6b"
+        "projectId": "1a0e699f-d178-4bfe-8d97-5e463fc4fae8"
       }
     }
   }
